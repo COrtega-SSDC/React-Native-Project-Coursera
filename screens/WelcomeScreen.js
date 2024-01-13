@@ -28,7 +28,6 @@ const styles = StyleSheet.create({
     height: 225,
     width: 325,
     resizeMode: 'contain',
-    alignItems: "center",
     marginTop: 160,
     marginBottom: 35
   },
@@ -41,7 +40,6 @@ const styles = StyleSheet.create({
   },
   button: {
     backgroundColor: '#40534B',
-    fontSize: 50,
     borderRadius: 10,
     paddingLeft: 130,
     paddingRight: 130
